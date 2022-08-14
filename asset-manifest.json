@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/ImageShare/static/js/app.2f11b236.chunk.js",
-    "app.js.map": "/ImageShare/static/js/app.2f11b236.chunk.js.map",
+    "app.js": "/ImageShare/static/js/app.f350f66b.chunk.js",
+    "app.js.map": "/ImageShare/static/js/app.f350f66b.chunk.js.map",
     "runtime~app.js": "/ImageShare/static/js/runtime~app.5ed024b0.js",
     "runtime~app.js.map": "/ImageShare/static/js/runtime~app.5ed024b0.js.map",
-    "static/js/2.675acb05.chunk.js": "/ImageShare/static/js/2.675acb05.chunk.js",
-    "static/js/2.675acb05.chunk.js.map": "/ImageShare/static/js/2.675acb05.chunk.js.map",
+    "static/js/2.da7a9ba0.chunk.js": "/ImageShare/static/js/2.da7a9ba0.chunk.js",
+    "static/js/2.da7a9ba0.chunk.js.map": "/ImageShare/static/js/2.da7a9ba0.chunk.js.map",
     "favicon-16.png": "/ImageShare/favicon-16.png",
     "favicon-32.png": "/ImageShare/favicon-32.png",
     "favicon.ico": "/ImageShare/favicon.ico",
     "index.html": "/ImageShare/index.html",
     "manifest.json": "/ImageShare/manifest.json",
     "serve.json": "/ImageShare/serve.json",
-    "static/js/2.675acb05.chunk.js.LICENSE.txt": "/ImageShare/static/js/2.675acb05.chunk.js.LICENSE.txt"
+    "static/js/2.da7a9ba0.chunk.js.LICENSE.txt": "/ImageShare/static/js/2.da7a9ba0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.5ed024b0.js",
-    "static/js/2.675acb05.chunk.js",
-    "static/js/app.2f11b236.chunk.js"
+    "static/js/2.da7a9ba0.chunk.js",
+    "static/js/app.f350f66b.chunk.js"
   ]
 }
